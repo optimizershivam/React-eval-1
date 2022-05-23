@@ -1,5 +1,7 @@
 .tasks {
   /* sample */
+  height: 300px;
+  overflow: scroll;
 }
 
 .empty {

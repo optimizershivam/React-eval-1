@@ -1,3 +1,10 @@
 .taskApp {
   /* Sample */
+  border: 1px solid;
+  width: 400px;
+  height: 450px;
+  margin: auto;
+  text-align: center;
+  background-color: #e899dc;
+background-image: linear-gradient(315deg, #e899dc 0%, #d387ab 74%);
 }

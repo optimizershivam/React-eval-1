@@ -1,3 +1,17 @@
 .task {
   /* Sample  */
+  display: flex;
+  align-items: center;
+  margin-left: 18%;
+ 
+}
+.s1
+{
+text-decoration: line-through;
+color: red;
+
+}
+.s2
+{
+color: green;
 }
